@@ -9,11 +9,11 @@ const Home = () => {
     // </div>
     // <h1 className="text-primary-500">Tailwind css is FUN!!</h1>
     <div>
-      <h1 className="h1-bold">Tailwind css is FUN!!</h1>
+      {/* <h1 className="h1-bold">Tailwind css is FUN!!</h1>
       <h1 className="h1-bold font-inter">Tailwind css is FUN!!(Inter)</h1>
       <h1 className="h1-bold font-space-grotesk">
         Tailwind css is FUN!!(Inter)
-      </h1>
+      </h1> */}
     </div>
   );
 };
